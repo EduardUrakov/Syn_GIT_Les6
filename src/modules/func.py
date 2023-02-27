@@ -1,2 +1,2 @@
-def sum():
-    pass
+def sqr(num):
+    pass 
