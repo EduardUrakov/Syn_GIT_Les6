@@ -1,1 +1,2 @@
-src/modules/tekst/
+src/modules/tekst/*.txt
+!src/modules/tekst/tmp1.txt
